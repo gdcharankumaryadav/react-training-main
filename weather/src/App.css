@@ -1,0 +1,49 @@
+.main{
+    width: 500px;
+    border-radius: 20px;
+    background-color: #01579b;
+    margin: 0 auto;
+}
+
+.welcome
+{
+  text-align: center;
+  font-size: 24px;
+}
+
+.header{
+    font-size: 25px;
+    border-radius: 20px 20px 0 0;
+}
+.button{
+  height: 35px;
+  width: 35px;
+}
+
+.day{
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.temp{
+    padding: 15px;
+    font-size: 18px;
+    margin:0;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sunrise-sunset{
+    padding: 15px;
+    font-size: 16px;
+}
+
+.description{
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 600;
+}

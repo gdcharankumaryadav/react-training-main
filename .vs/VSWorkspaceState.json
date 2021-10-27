@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\socketdata",
+    "\\socketdata\\src",
+    "\\socketdata\\src\\Actions",
+    "\\socketdata\\src\\components",
+    "\\socketdata\\src\\Reducers",
+    "\\weather\\src"
+  ],
+  "SelectedNode": "\\socketdata\\src\\index.js",
+  "PreviewInSolutionExplorer": false
+}
